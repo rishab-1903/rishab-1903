@@ -5,7 +5,7 @@
 I'm passionate about building scalable backend systems and exploring the capabilities of **Agentic AI with scalabale backend systems**. I thrive in **fast-paced environments** where I can solve complex problems and continuously learn.  
 
 ### 👀 Interests  
-- **Backend Development** – Django, SQL, Java, Linux
+- **Backend Development** – NodeJS, PostgreSQL, Docker, Java, Linux
 - **AI & Intelligent Systems** – Agentic AI, ML, and automation  
 - **High-Performance Systems** – Scalable and optimized backend solutions  
 - **Tech Startups** – Fast-moving, high-impact engineering roles  
